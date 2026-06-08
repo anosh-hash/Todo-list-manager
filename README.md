@@ -5,15 +5,15 @@ A modern Todo List application built using Python with a professional GUI interf
 It helps users manage tasks efficiently with priorities, due dates, and status tracking.
 
 ✨ Features:
-➕ Add new tasks
-✏️ Edit existing tasks
-🗑️ Delete tasks
-✅ Mark tasks as completed
-📊 Dashboard statistics (Total / Completed / Pending)
-🔍 Search tasks easily
-📌 Sort by priority
-📅 Calendar date picker (tkcalendar)
-💾 SQLite database storage
+1. ➕ Add new tasks
+2. ✏️ Edit existing tasks
+3. 🗑️ Delete tasks
+4. ✅ Mark tasks as completed
+5. 📊 Dashboard statistics (Total / Completed / Pending)
+6. 🔍 Search tasks easily
+7. 📌 Sort by priority
+8. 📅 Calendar date picker (tkcalendar)
+9. 💾 SQLite database storage
 
 🛠️ Tech Stack:
 🐍 Python
