@@ -1,6 +1,7 @@
 📝 Todo List Manager
 
 🚀 Overview:
+
 A modern Todo List application built using Python with a professional GUI interface.
 It helps users manage tasks efficiently with priorities, due dates, and status tracking.
 
@@ -16,7 +17,7 @@ It helps users manage tasks efficiently with priorities, due dates, and status t
 9. 💾 SQLite database storage
 
 🛠️ Tech Stack:
-🐍 Python
-🎨 Tkinter (GUI)
-🗄️ SQLite (Database)
-📅 tkcalendar
+1. 🐍 Python
+2. 🎨 Tkinter (GUI)
+3. 🗄️ SQLite (Database)
+4. 📅 tkcalendar
