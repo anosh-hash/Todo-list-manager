@@ -21,3 +21,6 @@ It helps users manage tasks efficiently with priorities, due dates, and status t
 2. 🎨 Tkinter (GUI)
 3. 🗄️ SQLite (Database)
 4. 📅 tkcalendar
+
+## 📸 Screenshot
+   <img width="1920" height="974" alt="image" src="https://github.com/user-attachments/assets/d98b1e23-ed3b-4e15-8c99-181ac68f6ade" />
